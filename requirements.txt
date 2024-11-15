@@ -1,0 +1,8 @@
+langchain_google_genai
+langchain
+spacy
+streamlit
+nltk
+gensim
+wordcloud
+python-dotenv
